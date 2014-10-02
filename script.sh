@@ -7,4 +7,4 @@
 # Options : 
 
 echo The number of CPUs is
-grep processor/proc/cpuinfo | wc -l
+grep proccessor/proc/cpuinfo | wc -l
